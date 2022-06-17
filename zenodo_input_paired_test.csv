@@ -1,0 +1,3 @@
+patient,gender,status,sample,lane,fastq_1,fastq_2
+test,XX,0,testN,test_L1,https://zenodo.org/record/2582555/files/SLGFSK-N_231335_r1_chr5_12_17.fastq.gz?download=1,https://zenodo.org/record/2582555/files/SLGFSK-N_231335_r2_chr5_12_17.fastq.gz?download=1
+test,XX,1,testT,test_L1,https://zenodo.org/record/2582555/files/SLGFSK-T_231336_r1_chr5_12_17.fastq.gz?download=1,https://zenodo.org/record/2582555/files/SLGFSK-T_231336_r2_chr5_12_17.fastq.gz?download=1
