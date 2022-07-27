@@ -1,0 +1,3 @@
+patient,gender,status,sample,lane,bam,bai
+test,XY,0,testN,test_L1,gs://gatk-test/nf-core/sarek/jovyan/SEQC2_data/WES_IL_N_1_chr1-4.bam,gs://gatk-test/nf-core/sarek/jovyan/SEQC2_data/WES_IL_N_1_chr1-4.bam.bai
+test,XY,1,testT,test_L1,gs://gatk-test/nf-core/sarek/jovyan/SEQC2_data/WES_IL_T_1_chr1-4.bam,gs://gatk-test/nf-core/sarek/jovyan/SEQC2_data/WES_IL_T_1_chr1-4.bam.bai
